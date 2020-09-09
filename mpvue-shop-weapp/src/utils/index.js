@@ -101,8 +101,8 @@ export function getOpenid() {
   //       wx.request({
   //         url: 'https://api.weixin.qq.com/sns/jscode2session',
   //         data: {
-  //           "appid": "wx601ce71bde7b9add",
-  //           "secret": "abed5421d88eb8236e933c6e42d5c14e",
+  //           "appid": "",
+  //           "secret": "",
   //           "js_code": res.code,
   //           "grant_type": "authorization_code"
   //         },

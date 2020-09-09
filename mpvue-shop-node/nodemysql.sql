@@ -35,7 +35,7 @@ CREATE TABLE `cSessionInfo` (
 -- ----------------------------
 -- Records of cSessionInfo
 -- ----------------------------
-INSERT INTO `cSessionInfo` VALUES ('oQmbb4sNZdxaUQZ0sfYgvtOP2S7c', 'cd95be68-60cd-4b81-bbbb-a4e3d7db7b93', '625b0c303a9b54b24abd517f3c01aa36a0ef20a9', '2018-08-03 23:22:01', '2018-08-25 16:08:55', 'a10LPJxiw0q6aOfKdkNEHQ==', '{\"openId\":\"oQmbb4sNZdxaUQZ0sfYgvtOP2S7c\",\"nickName\":\"何玉硕\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Changping\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbWFEIJj8IpGeHM7dGic1aTFZALjWcMm9ltWfFiaQfVRYticWBfgGfzXWMt2EkJWiaicPtftHAlWxUibxQ/132\",\"watermark\":{\"timestamp\":1535184522,\"appid\":\"wx601ce71bde7b9add\"}}');
+INSERT INTO `cSessionInfo` VALUES ('oQmbb4sNZdxaUQZ0sfYgvtOP2S7c', 'cd95be68-60cd-4b81-bbbb-a4e3d7db7b93', '625b0c303a9b54b24abd517f3c01aa36a0ef20a9', '2018-08-03 23:22:01', '2018-08-25 16:08:55', 'a10LPJxiw0q6aOfKdkNEHQ==', '{\"openId\":\"oQmbb4sNZdxaUQZ0sfYgvtOP2S7c\",\"nickName\":\"何玉硕\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Changping\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIbWFEIJj8IpGeHM7dGic1aTFZALjWcMm9ltWfFiaQfVRYticWBfgGfzXWMt2EkJWiaicPtftHAlWxUibxQ/132\",\"watermark\":{\"timestamp\":1535184522,\"appid\":\"\"}}');
 
 -- ----------------------------
 -- Table structure for nideshop_ad
